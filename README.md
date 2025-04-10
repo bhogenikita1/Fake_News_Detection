@@ -38,7 +38,9 @@ The dataset contains text-based news articles labeled as either "FAKE" or "REAL"
 
 
 Model accuracy on test data
+
 Classification report and confusion matrix
+
 Prediction results for custom news input
 
 
@@ -47,7 +49,9 @@ Prediction results for custom news input
 
 
 Use deep learning models (LSTM, BERT)
+
 Deploy as a web app using Flask/Django
+
 Create an interactive interface for users
 
    
