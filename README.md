@@ -34,21 +34,20 @@ The dataset contains text-based news articles labeled as either "FAKE" or "REAL"
    git clone https://github.com/yourusername/fake-news-detection.git
    cd fake-news-detection
 
-📈 Output
+## 📈 Output
+
 
 Model accuracy on test data
-
 Classification report and confusion matrix
-
 Prediction results for custom news input
 
 
-✅ Future Enhancements
+
+## ✅ Future Enhancements
+
 
 Use deep learning models (LSTM, BERT)
-
 Deploy as a web app using Flask/Django
-
 Create an interactive interface for users
 
    
