@@ -35,6 +35,7 @@ The dataset contains text-based news articles labeled as either "FAKE" or "REAL"
    cd fake-news-detection
 
 📈 Output
+
 Model accuracy on test data
 
 Classification report and confusion matrix
@@ -42,6 +43,7 @@ Classification report and confusion matrix
 Prediction results for custom news input
 
 ✅ Future Enhancements
+
 Use deep learning models (LSTM, BERT)
 
 Deploy as a web app using Flask/Django
